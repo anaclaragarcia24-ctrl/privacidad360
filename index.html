@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="es-MX">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="PRIVACIDAD 360: videojuego educativo para aprender a proteger tu privacidad digital y actuar ante el acoso y el ciberbullying.">
+  <meta name="referrer" content="no-referrer">
+  <meta name="theme-color" content="#F8D0E0">
+  <meta name="application-name" content="PRIVACIDAD 360">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Privacidad 360">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="color-scheme" content="light dark">
+  <title>PRIVACIDAD 360</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="img/icono.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="img/icono-192.png">
+  <link rel="preload" href="fonts/fredoka-variable.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/nunito-variable.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="css/estilos.css">
+  <link rel="stylesheet" href="css/modos.css">
+</head>
+<body>
+  <a class="saltar" href="#contenido" data-t="Saltar al contenido">Saltar al contenido</a>
+  <div class="superior">
+    <div id="banda-demo" class="banda-demo" role="status" hidden data-t="🎭 MODO DEMOSTRACIÓN — todos los datos mostrados son ficticios">🎭 MODO DEMOSTRACIÓN — todos los datos mostrados son ficticios</div>
+    <header class="cabecera">
+      <a class="marca" href="#/inicio" aria-label="PRIVACIDAD 360">
+        <img src="img/icono.svg" alt="" width="38" height="38"><span>PRIVACIDAD <strong>360</strong></span>
+      </a>
+      <a id="chip-xp" class="chip-xp" href="#/logros"></a>
+      <div class="controles">
+        <button id="boton-musica" class="boton-icono" type="button" data-accion="musica" aria-pressed="true">🎵</button>
+        <button id="boton-sonido" class="boton-icono" type="button" data-accion="sonido" aria-pressed="false">🔊</button>
+        <button id="boton-tema" class="boton-icono" type="button" data-accion="tema">🌙</button>
+        <select id="idioma" class="selector-idioma" aria-label="Idioma / Language">
+          <option value="es">ES</option>
+          <option value="en">EN</option>
+          <option value="fr">FR</option>
+          <option value="pt">PT</option>
+        </select>
+      </div>
+      <button id="boton-demo" class="boton secundario pequeno" type="button" data-accion="demo">Modo demostración</button>
+      <button id="boton-menu" class="boton-menu" type="button" data-accion="menu" aria-controls="menu" aria-expanded="false" data-t="☰ Menú">☰ Menú</button>
+      <nav id="menu" class="menu" data-t-aria="Secciones" aria-label="Secciones"></nav>
+    </header>
+  </div>
+  <main id="contenido" class="contenido" tabindex="-1"></main>
+  <footer class="pie">
+    <p data-t="PRIVACIDAD 360 · Reto 3 · Proyecto escolar · Caso: Escuela Preparatoria «Lázaro Cárdenas» · Prototipo educativo.">PRIVACIDAD 360 · Reto 3 · Proyecto escolar · Caso: Escuela Preparatoria «Lázaro Cárdenas» · Prototipo educativo.</p>
+    <p><span data-t="Nunca te pediremos contraseñas reales, fotos ni acceso a tus cuentas.">Nunca te pediremos contraseñas reales, fotos ni acceso a tus cuentas.</span> <a href="#/privacidad" data-t="Aviso de privacidad">Aviso de privacidad</a></p>
+  </footer>
+  <div id="aviso" class="aviso" role="status" aria-live="polite" hidden></div>
+  <div id="confeti" class="confeti" aria-hidden="true"></div>
+  <dialog id="modal" class="modal" aria-labelledby="modal-contenido">
+    <div id="modal-contenido"></div>
+    <button class="boton" type="button" data-accion="cerrar-modal" data-t="¡Genial! 🎉">¡Genial! 🎉</button>
+  </dialog>
+  <noscript><p class="alerta">PRIVACIDAD 360 necesita JavaScript activado para funcionar.</p></noscript>
+  <script src="js/i18n.js"></script>
+  <script src="js/idiomas/textos.js"></script>
+  <script src="js/idiomas/fr.js"></script>
+  <script src="js/idiomas/pt.js"></script>
+  <script src="js/datos.js"></script>
+  <script src="js/logica.js"></script>
+  <script src="js/juego.js"></script>
+  <script src="js/nucleo.js"></script>
+  <script src="js/salas.js"></script>
+  <script src="js/modos.js"></script>
+  <script src="js/escape.js"></script>
+  <script src="js/escuela.js"></script>
+  <script src="js/docente.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
