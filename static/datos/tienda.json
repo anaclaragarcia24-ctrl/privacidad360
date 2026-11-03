@@ -1,0 +1,548 @@
+[
+{
+"id": "base-0",
+"tipo": "base",
+"valor": "🦊",
+"precio": 0,
+"nivel": 1,
+"nombre": {
+"es": "Zorro",
+"en": "Fox",
+"fr": "Renard",
+"pt": "Raposa"
+}
+},
+{
+"id": "base-1",
+"tipo": "base",
+"valor": "🐼",
+"precio": 0,
+"nivel": 1,
+"nombre": {
+"es": "Panda",
+"en": "Panda",
+"fr": "Panda",
+"pt": "Panda"
+}
+},
+{
+"id": "base-2",
+"tipo": "base",
+"valor": "🐧",
+"precio": 0,
+"nivel": 1,
+"nombre": {
+"es": "Pingüino",
+"en": "Penguin",
+"fr": "Pingouin",
+"pt": "Pinguim"
+}
+},
+{
+"id": "base-3",
+"tipo": "base",
+"valor": "🦄",
+"precio": 0,
+"nivel": 1,
+"nombre": {
+"es": "Unicornio",
+"en": "Unicorn",
+"fr": "Licorne",
+"pt": "Unicórnio"
+}
+},
+{
+"id": "base-4",
+"tipo": "base",
+"valor": "🐸",
+"precio": 0,
+"nivel": 1,
+"nombre": {
+"es": "Rana",
+"en": "Frog",
+"fr": "Grenouille",
+"pt": "Sapo"
+}
+},
+{
+"id": "base-5",
+"tipo": "base",
+"valor": "🐱",
+"precio": 0,
+"nivel": 1,
+"nombre": {
+"es": "Gato",
+"en": "Cat",
+"fr": "Chat",
+"pt": "Gato"
+}
+},
+{
+"id": "base-6",
+"tipo": "base",
+"valor": "🐙",
+"precio": 0,
+"nivel": 1,
+"nombre": {
+"es": "Pulpo",
+"en": "Octopus",
+"fr": "Pieuvre",
+"pt": "Polvo"
+}
+},
+{
+"id": "base-7",
+"tipo": "base",
+"valor": "🦉",
+"precio": 0,
+"nivel": 1,
+"nombre": {
+"es": "Búho",
+"en": "Owl",
+"fr": "Hibou",
+"pt": "Coruja"
+}
+},
+{
+"id": "base-8",
+"tipo": "base",
+"valor": "🐝",
+"precio": 0,
+"nivel": 1,
+"nombre": {
+"es": "Abeja",
+"en": "Bee",
+"fr": "Abeille",
+"pt": "Abelha"
+}
+},
+{
+"id": "base-9",
+"tipo": "base",
+"valor": "🐢",
+"precio": 0,
+"nivel": 1,
+"nombre": {
+"es": "Tortuga",
+"en": "Turtle",
+"fr": "Tortue",
+"pt": "Tartaruga"
+}
+},
+{
+"id": "base-10",
+"tipo": "base",
+"valor": "🐰",
+"precio": 0,
+"nivel": 1,
+"nombre": {
+"es": "Conejo",
+"en": "Rabbit",
+"fr": "Lapin",
+"pt": "Coelho"
+}
+},
+{
+"id": "base-11",
+"tipo": "base",
+"valor": "🦖",
+"precio": 0,
+"nivel": 1,
+"nombre": {
+"es": "Dinosaurio",
+"en": "Dinosaur",
+"fr": "Dinosaure",
+"pt": "Dinossauro"
+}
+},
+{
+"id": "base-12",
+"tipo": "base",
+"valor": "🐲",
+"precio": 120,
+"nivel": 2,
+"nombre": {
+"es": "Dragón",
+"en": "Dragon",
+"fr": "Dragon",
+"pt": "Dragão"
+}
+},
+{
+"id": "base-13",
+"tipo": "base",
+"valor": "🦁",
+"precio": 90,
+"nivel": 1,
+"nombre": {
+"es": "León",
+"en": "Lion",
+"fr": "Lion",
+"pt": "Leão"
+}
+},
+{
+"id": "base-14",
+"tipo": "base",
+"valor": "🐨",
+"precio": 60,
+"nivel": 1,
+"nombre": {
+"es": "Koala",
+"en": "Koala",
+"fr": "Koala",
+"pt": "Coala"
+}
+},
+{
+"id": "base-15",
+"tipo": "base",
+"valor": "🦋",
+"precio": 60,
+"nivel": 1,
+"nombre": {
+"es": "Mariposa",
+"en": "Butterfly",
+"fr": "Papillon",
+"pt": "Borboleta"
+}
+},
+{
+"id": "base-16",
+"tipo": "base",
+"valor": "🤖",
+"precio": 180,
+"nivel": 3,
+"nombre": {
+"es": "Robot guardián",
+"en": "Guardian robot",
+"fr": "Robot gardien",
+"pt": "Robô guardião"
+}
+},
+{
+"id": "base-17",
+"tipo": "base",
+"valor": "👾",
+"precio": 240,
+"nivel": 4,
+"nombre": {
+"es": "Píxel rebelde",
+"en": "Rebel pixel",
+"fr": "Pixel rebelle",
+"pt": "Pixel rebelde"
+}
+},
+{
+"id": "sombrero-18",
+"tipo": "sombrero",
+"valor": "🧢",
+"precio": 30,
+"nivel": 1,
+"nombre": {
+"es": "Gorra",
+"en": "Cap",
+"fr": "Casquette",
+"pt": "Boné"
+}
+},
+{
+"id": "sombrero-19",
+"tipo": "sombrero",
+"valor": "🎀",
+"precio": 30,
+"nivel": 1,
+"nombre": {
+"es": "Moño",
+"en": "Bow",
+"fr": "Nœud",
+"pt": "Laço"
+}
+},
+{
+"id": "sombrero-20",
+"tipo": "sombrero",
+"valor": "🎩",
+"precio": 70,
+"nivel": 1,
+"nombre": {
+"es": "Sombrero de copa",
+"en": "Top hat",
+"fr": "Haut-de-forme",
+"pt": "Cartola"
+}
+},
+{
+"id": "sombrero-21",
+"tipo": "sombrero",
+"valor": "🎓",
+"precio": 90,
+"nivel": 2,
+"nombre": {
+"es": "Birrete",
+"en": "Grad cap",
+"fr": "Toque",
+"pt": "Capelo"
+}
+},
+{
+"id": "sombrero-22",
+"tipo": "sombrero",
+"valor": "⛑️",
+"precio": 110,
+"nivel": 2,
+"nombre": {
+"es": "Casco de rescate",
+"en": "Rescue helmet",
+"fr": "Casque de secours",
+"pt": "Capacete de resgate"
+}
+},
+{
+"id": "sombrero-23",
+"tipo": "sombrero",
+"valor": "👑",
+"precio": 260,
+"nivel": 4,
+"nombre": {
+"es": "Corona 360",
+"en": "360 crown",
+"fr": "Couronne 360",
+"pt": "Coroa 360"
+}
+},
+{
+"id": "gafas-24",
+"tipo": "gafas",
+"valor": "👓",
+"precio": 25,
+"nivel": 1,
+"nombre": {
+"es": "Lentes",
+"en": "Glasses",
+"fr": "Lunettes",
+"pt": "Óculos"
+}
+},
+{
+"id": "gafas-25",
+"tipo": "gafas",
+"valor": "🕶️",
+"precio": 60,
+"nivel": 1,
+"nombre": {
+"es": "Lentes oscuros",
+"en": "Sunglasses",
+"fr": "Lunettes noires",
+"pt": "Óculos escuros"
+}
+},
+{
+"id": "gafas-26",
+"tipo": "gafas",
+"valor": "🥽",
+"precio": 90,
+"nivel": 2,
+"nombre": {
+"es": "Visor de hacker ético",
+"en": "Ethical hacker visor",
+"fr": "Visière de hackeur éthique",
+"pt": "Visor de hacker ético"
+}
+},
+{
+"id": "mascota-27",
+"tipo": "mascota",
+"valor": "🐣",
+"precio": 40,
+"nivel": 1,
+"nombre": {
+"es": "Pollito",
+"en": "Chick",
+"fr": "Poussin",
+"pt": "Pintinho"
+}
+},
+{
+"id": "mascota-28",
+"tipo": "mascota",
+"valor": "🐞",
+"precio": 40,
+"nivel": 1,
+"nombre": {
+"es": "Catarina",
+"en": "Ladybug",
+"fr": "Coccinelle",
+"pt": "Joaninha"
+}
+},
+{
+"id": "mascota-29",
+"tipo": "mascota",
+"valor": "🐿️",
+"precio": 70,
+"nivel": 1,
+"nombre": {
+"es": "Ardilla",
+"en": "Squirrel",
+"fr": "Écureuil",
+"pt": "Esquilo"
+}
+},
+{
+"id": "mascota-30",
+"tipo": "mascota",
+"valor": "🦜",
+"precio": 90,
+"nivel": 2,
+"nombre": {
+"es": "Perico",
+"en": "Parrot",
+"fr": "Perroquet",
+"pt": "Papagaio"
+}
+},
+{
+"id": "mascota-31",
+"tipo": "mascota",
+"valor": "🛸",
+"precio": 180,
+"nivel": 3,
+"nombre": {
+"es": "Dron amigo",
+"en": "Friendly drone",
+"fr": "Drone ami",
+"pt": "Drone amigo"
+}
+},
+{
+"id": "fondo-32",
+"tipo": "fondo",
+"valor": "lavanda",
+"precio": 0,
+"nivel": 1,
+"nombre": {
+"es": "Lavanda",
+"en": "Lavender",
+"fr": "Lavande",
+"pt": "Lavanda"
+}
+},
+{
+"id": "fondo-33",
+"tipo": "fondo",
+"valor": "menta",
+"precio": 30,
+"nivel": 1,
+"nombre": {
+"es": "Menta",
+"en": "Mint",
+"fr": "Menthe",
+"pt": "Menta"
+}
+},
+{
+"id": "fondo-34",
+"tipo": "fondo",
+"valor": "durazno",
+"precio": 30,
+"nivel": 1,
+"nombre": {
+"es": "Durazno",
+"en": "Peach",
+"fr": "Pêche",
+"pt": "Pêssego"
+}
+},
+{
+"id": "fondo-35",
+"tipo": "fondo",
+"valor": "cielo",
+"precio": 30,
+"nivel": 1,
+"nombre": {
+"es": "Cielo",
+"en": "Sky",
+"fr": "Ciel",
+"pt": "Céu"
+}
+},
+{
+"id": "fondo-36",
+"tipo": "fondo",
+"valor": "aurora",
+"precio": 110,
+"nivel": 2,
+"nombre": {
+"es": "Aurora",
+"en": "Aurora",
+"fr": "Aurore",
+"pt": "Aurora"
+}
+},
+{
+"id": "fondo-37",
+"tipo": "fondo",
+"valor": "galaxia",
+"precio": 190,
+"nivel": 3,
+"nombre": {
+"es": "Galaxia",
+"en": "Galaxy",
+"fr": "Galaxie",
+"pt": "Galáxia"
+}
+},
+{
+"id": "marco-38",
+"tipo": "marco",
+"valor": "simple",
+"precio": 0,
+"nivel": 1,
+"nombre": {
+"es": "Marco simple",
+"en": "Simple frame",
+"fr": "Cadre simple",
+"pt": "Moldura simples"
+}
+},
+{
+"id": "marco-39",
+"tipo": "marco",
+"valor": "dorado",
+"precio": 90,
+"nivel": 2,
+"nombre": {
+"es": "Marco dorado",
+"en": "Golden frame",
+"fr": "Cadre doré",
+"pt": "Moldura dourada"
+}
+},
+{
+"id": "marco-40",
+"tipo": "marco",
+"valor": "brillo",
+"precio": 150,
+"nivel": 3,
+"nombre": {
+"es": "Aura brillante",
+"en": "Shining aura",
+"fr": "Aura brillante",
+"pt": "Aura brilhante"
+}
+},
+{
+"id": "marco-41",
+"tipo": "marco",
+"valor": "arcoiris",
+"precio": 220,
+"nivel": 4,
+"nombre": {
+"es": "Aura arcoíris",
+"en": "Rainbow aura",
+"fr": "Aura arc-en-ciel",
+"pt": "Aura arco-íris"
+}
+}
+]
